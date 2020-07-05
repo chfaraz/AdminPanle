@@ -4,7 +4,7 @@ import React from 'react';
 function Adds(){
     return(
         <div className="agent-request">
-            <h1>List of Adds</h1>
+            <h1>List of Ads</h1>
             <table className="agent-request-table">
                 <tr>
                     <th>Name</th>
@@ -15,9 +15,9 @@ function Adds(){
                     <th>Block</th>
                 </tr>
                 <tr>
-                    <td>Alfreds Futterkiste</td>
-                    <td>Maria Anders</td>
-                    <td>Germany</td>
+                    <td>Ali Qureshi</td>
+                    <td>03335293844</td>
+                    <td>ali123@gmail.com</td>
                     <td>Germany</td>
                     <td>Germany</td>
                     <td>
@@ -25,9 +25,9 @@ function Adds(){
                     </td>
                 </tr>
                 <tr>
-                    <td>Berglunds snabbköp</td>
-                    <td>Christina Berglund</td>
-                    <td>Sweden</td>
+                    <td>Farhan Khan</td>
+                    <td>03125293444</td>
+                    <td>farhankhan@hotmail.com</td>
                     <td>Sweden</td>
                     <td>Sweden</td>
                     <td>
@@ -35,9 +35,9 @@ function Adds(){
                     </td>
                 </tr>
                 <tr>
-                    <td>Centro comercial Moctezuma</td>
-                    <td>Francisco Chang</td>
-                    <td>Mexico</td>
+                    <td>Ali Rizvi</td>
+                    <td>03235543854</td>
+                    <td>rizvi@gmail.com</td>
                     <td>Mexico</td>
                     <td>Mexico</td>
                     <td>
@@ -45,9 +45,9 @@ function Adds(){
                     </td>
                 </tr>
                 <tr>
-                    <td>Ernst Handel</td>
-                    <td>Roland Mendel</td>
-                    <td>Austria</td>
+                    <td>Sarfaraz Hamza</td>
+                    <td>03435534875</td>
+                    <td>sarfaraz76@gmail.com</td>
                     <td>Austria</td>
                     <td>Austria</td>
                     <td>

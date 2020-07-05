@@ -15,44 +15,44 @@ function AgentRequest(){
                     <th>Approve</th>
                 </tr>
                 <tr>
-                    <td>Alfreds Futterkiste</td>
-                    <td>Maria Anders</td>
-                    <td>Germany</td>
-                    <td>Germany</td>
-                    <td>Germany</td>
+                    <td>Ali Qureshi</td>
+                    <td>Lahore</td>
+                    <td>03335293844</td>
+                    <td>ali123@gmail.com</td>
+                    <td>I want to apply as agent</td>
                     <td>
                         <button className="yes">YES</button>
                         <button className="no">NO</button>
                     </td>
                 </tr>
                 <tr>
-                    <td>Berglunds snabbköp</td>
-                    <td>Christina Berglund</td>
-                    <td>Sweden</td>
-                    <td>Sweden</td>
-                    <td>Sweden</td>
+                    <td>Farhan Khan</td>
+                    <td>Islamabad</td>
+                    <td>03125293444</td>
+                    <td>farhankhan@hotmail.com</td>
+                    <td>Request for be an agent</td>
                     <td>
                         <button className="yes">YES</button>
                         <button className="no">NO</button>
                     </td>
                 </tr>
                 <tr>
-                    <td>Centro comercial Moctezuma</td>
-                    <td>Francisco Chang</td>
-                    <td>Mexico</td>
-                    <td>Mexico</td>
-                    <td>Mexico</td>
+                    <td>Ali Rizvi</td>
+                    <td>Karachi</td>
+                    <td>03235543854</td>
+                    <td>rizvi@gmail.com</td>
+                    <td>Applying as agent</td>
                     <td>
                         <button className="yes">YES</button>
                         <button className="no">NO</button>
                     </td>
                 </tr>
                 <tr>
-                    <td>Ernst Handel</td>
-                    <td>Roland Mendel</td>
-                    <td>Austria</td>
-                    <td>Austria</td>
-                    <td>Austria</td>
+                    <td>Sarfaraz Hamza</td>
+                    <td>Peshawar</td>
+                    <td>03435534875</td>
+                    <td>sarfaraz76@gmail.com</td>
+                    <td>Wants to be an agent</td>
                     <td>
                         <button className="yes">YES</button>
                         <button className="no">NO</button>

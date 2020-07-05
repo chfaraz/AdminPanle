@@ -5,10 +5,14 @@
   }
   a {
     text-decoration: none;
+    color: inherit;
   }
   ul {
     text-decoration: none;
     list-style: none;
+  }
+  body{
+    background-color: rgba(126, 125, 125, 0.596);
   }
 .login{
     height: 100vh;
@@ -65,23 +69,7 @@ ul{
     margin-top: -10px;
     padding-top: 180px;
 }
-li{
-    height: 45px;
-    width: 200px;
-    background-color: white;
-    margin: 35px 0 10px 30px;
-    font-size: 20px;
-    color: rgb(100, 99, 99);
-    font-weight: 800;
-    padding: 12px 0px 0px 0px;
-    border-radius: 5px;
-    cursor: pointer;
-    text-align: center;
-}
-li:hover{
-    background-color: rgb(59, 49, 190);
-    color: rgb(255, 255, 255);
-}
+
 
 .agent-request-table {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -134,4 +122,38 @@ li:hover{
       text-align: center;
       margin-top: 30px;
   }
-
+.nonactive{
+  color: #646363;
+  background-color: white;
+  margin: 35px 0 10px 30px;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+  font-weight: 800;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+.link-sizea{
+  padding: 13px 35px 13px 35px;
+}
+.link-sizeb{
+  padding: 13px 71px 13px 71px;
+}
+.link-sizec{
+  padding: 13px 41px 13px 41px;
+}
+.link-sized{
+  padding: 13px 77px 13px 77px;
+}
+.active{
+  color: rgb(255, 255, 255);
+  background-color: rgb(247, 49, 49);
+}
+li{
+  margin: 55px 0 10px 0px;
+  font-weight: 800;
+}
+.nonactive:hover{
+  background-color: rgb(22, 119, 38);
+  color: rgb(255, 255, 255);
+}
