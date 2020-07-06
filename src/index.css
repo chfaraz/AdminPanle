@@ -67,15 +67,41 @@ ul{
     width: 17em;
     height: 100vh;
     margin-top: -10px;
-    padding-top: 180px;
+    padding-top: 100px;
 }
-
-
+h1{
+  text-align: center;
+  margin-top: 30px;
+}
+.search-bar{
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 50px 0 0px 0px;
+  justify-content: center;
+}
+.search{
+  height: 30px;
+  width: 200px;
+  font-size: 18px;
+  font-weight: 600;
+  color: red;
+  background-color: #B2B1B1;
+}
+.search-btn{
+  height: 30px;
+  width: 70px;
+  margin: 11px 0 0px 30px;
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+}
 .agent-request-table {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 77vw;
-    margin: 50px 40px 0px 40px;
+    margin: 20px 40px 0px 40px;
   }
   
   .agent-request-table td, .agent-request-table th {
@@ -118,10 +144,7 @@ ul{
     width: 80px;
       height: 30px;
   }
-  h1{
-      text-align: center;
-      margin-top: 30px;
-  }
+ 
 .nonactive{
   color: #646363;
   background-color: white;
@@ -140,10 +163,16 @@ ul{
   padding: 13px 71px 13px 71px;
 }
 .link-sizec{
-  padding: 13px 41px 13px 41px;
+  padding: 13px 46px 13px 46px;
 }
 .link-sized{
-  padding: 13px 77px 13px 77px;
+  padding: 13px 83px 13px 83px;
+}
+.link-sizee{
+  padding: 13px 75px 13px 75px;
+}
+.link-sizef{
+  padding: 13px 55px 13px 55px;
 }
 .active{
   color: rgb(255, 255, 255);

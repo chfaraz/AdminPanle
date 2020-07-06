@@ -5,6 +5,10 @@ function AgentRequest(){
     return(
         <div className="agent-request">
             <h1>New Agents Requests</h1>
+            <div className="search-bar">
+            <input type="text" className="search" placeholder="Enter Name or Number"></input>
+            <button className="search-btn">Search</button>
+            </div>
             <table className="agent-request-table">
                 <tr>
                     <th>Name</th>

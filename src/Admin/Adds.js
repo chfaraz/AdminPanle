@@ -10,16 +10,16 @@ function Adds(){
                     <th>Name</th>
                     <th>Phone No</th>
                     <th>Email</th>
-                    <th>Sold</th>
-                    <th>Present</th>
+                    <th>Property ID</th>
+                    <th>Property Title</th>
                     <th>Block</th>
                 </tr>
                 <tr>
                     <td>Ali Qureshi</td>
                     <td>03335293844</td>
                     <td>ali123@gmail.com</td>
-                    <td>Germany</td>
-                    <td>Germany</td>
+                    <td>03235</td>
+                    <td>5 marla house</td>
                     <td>
                         <button className="block">Delete</button>
                     </td>
@@ -28,8 +28,8 @@ function Adds(){
                     <td>Farhan Khan</td>
                     <td>03125293444</td>
                     <td>farhankhan@hotmail.com</td>
-                    <td>Sweden</td>
-                    <td>Sweden</td>
+                    <td>23002</td>
+                    <td>10 marla flate</td>
                     <td>
                         <button className="block">Delete</button>
                     </td>
@@ -38,8 +38,8 @@ function Adds(){
                     <td>Ali Rizvi</td>
                     <td>03235543854</td>
                     <td>rizvi@gmail.com</td>
-                    <td>Mexico</td>
-                    <td>Mexico</td>
+                    <td>00033</td>
+                    <td>1 canal plot</td>
                     <td>
                         <button className="block">Delete</button>
                     </td>
@@ -48,8 +48,8 @@ function Adds(){
                     <td>Sarfaraz Hamza</td>
                     <td>03435534875</td>
                     <td>sarfaraz76@gmail.com</td>
-                    <td>Austria</td>
-                    <td>Austria</td>
+                    <td>12033</td>
+                    <td>shop</td>
                     <td>
                         <button className="block">Delete</button>
                     </td>
