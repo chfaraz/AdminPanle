@@ -10,18 +10,20 @@ function Properties(){
             <button className="search-btn">Search</button>
             </div>
             <table className="agent-request-table">
-                <tr>
-                    <th>ID</th>
-                    <th>Owner Name</th>
-                    <th>Phone No</th>
-                    <th>Title</th>
-                    <th>Type</th>
-                    <th>Price</th>
-                    <th>Longitude</th>
-                    <th>latitude</th>
-                    <th>purpose</th>
-                    <th>size</th>
-                </tr>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Owner Name</th>
+                        <th>Phone No</th>
+                        <th>Title</th>
+                        <th>Type</th>
+                        <th>Price</th>
+                        <th>Longitude</th>
+                        <th>latitude</th>
+                        <th>purpose</th>
+                        <th>size</th>
+                    </tr>
+                </thead>
             </table>
         </div>
     );

@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Login from './Login'
 import Home from './Home'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import {Link} from 'react-router-dom';
 
 class App extends Component {
 

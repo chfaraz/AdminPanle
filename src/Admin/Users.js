@@ -10,11 +10,13 @@ function Users(){
             <button className="search-btn">Search</button>
             </div>
             <table className="agent-request-table">
+                <thead>
                 <tr>
                     <th>ID</th>
                     <th>Name</th>
                     <th>Phone No</th>
                 </tr>
+                </thead>
             </table>
         </div>
     );
